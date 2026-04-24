@@ -102,7 +102,7 @@ function AddContact() {
         {error && <p style={styles.error}>{error}</p>}
         
         <button type="submit" style={styles.button}>
-          Enregistrer l'individus
+          Enregistrer le contact
         </button>
       </form>
     </div>
